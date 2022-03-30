@@ -4,7 +4,7 @@
 
 #### Para rodar essa aplicação clone esse repositório em sua máquina, no terminal dê um comando npm install e crie um arquivo .env .
 
-#### Feito isso Copie e cole as linhas de código abaixo no seu .env e preencha com suas informações:
+#### Feito isso copie e cole as linhas de código abaixo no seu .env e preencha com suas informações:
 
 <p>DB_HOST = </p>
 <p>DB_USER = </p>
@@ -15,9 +15,9 @@
 
 #### Rode o comando npm run start
 
-<p>Feito agora é possível rodar os endpoints </p>
+<p>Feito isso agora é possível executar os endpoints </p>
 
-<p> A documentação para rodar os Endpoints está no link a abaixo: </p>
+<p> A documentação para executar os endpoints está no link a abaixo: </p>
 <p> https://documenter.getpostman.com/view/18386367/UVypzcXh </p>
 
 </p> Essa aplicação foi desenvolvida usando NodeJS, TypeScript, Express, Knex e MySQL </p>
