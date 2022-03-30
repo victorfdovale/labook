@@ -2,9 +2,10 @@
 
 ### Labook é uma aplicação back-end na qual é posível o usuário fazer cadastro e login e fazer suas postagens (com imagem, descrição e tipo da postagem: normal ou event) e buscar postagens por ID. 
 
-### Para rodar essa aplicação clone esse repositório em sua máquina, no terminal dê um comando npm install e crie um arquivo .env .
+#### Para rodar essa aplicação clone esse repositório em sua máquina, no terminal dê um comando npm install e crie um arquivo .env .
 
-### Feito isso Copie e cole as linhas de código abaixo e preencha com suas informações:
+#### Feito isso Copie e cole as linhas de código abaixo no seu .env e preencha com suas informações:
+
 <p>DB_HOST = </p>
 <p>DB_USER = </p>
 <p> DB_PASSWORD = </p>
@@ -12,7 +13,7 @@
 <p> JWT_KEY = </p>
 <p> BCRYPT_COST = </p>
 
-### Rode o comando npm run start
+#### Rode o comando npm run start
 
 <p>Feito agora é possível rodar os endpoints </p>
 
